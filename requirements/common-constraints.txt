@@ -35,7 +35,7 @@ backoff==2.2.1
     # via
     #   -r requirements/requirements.in
     #   posthog
-banks==2.4.0
+banks==2.4.2
     # via llama-index-core
 beautifulsoup4==4.14.3
     # via -r requirements/requirements.in
