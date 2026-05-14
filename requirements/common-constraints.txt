@@ -329,7 +329,7 @@ pathspec==1.0.4
     #   grep-ast
 pexpect==4.9.0
     # via -r requirements/requirements.in
-pillow==12.1.1
+pillow==12.2.0
     # via
     #   -r requirements/requirements.in
     #   llama-index-core
