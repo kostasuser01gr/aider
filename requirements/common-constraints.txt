@@ -282,7 +282,7 @@ networkx==3.4.2
     #   -r requirements/requirements.in
     #   llama-index-core
     #   torch
-nltk==3.9.2
+nltk==3.9.4
     # via llama-index-core
 nodeenv==1.10.0
     # via pre-commit
